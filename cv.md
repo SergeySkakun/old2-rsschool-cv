@@ -28,7 +28,7 @@ _I want to work as a front-end programmer and help connect people through the In
 
 ---
 
-## Code Example:
+### Code Example:
 
 [Snail Sort](https://www.codewars.com/kata/521c2db8ddc89b9b7a0000c1/javascript)
 
@@ -59,6 +59,6 @@ snail = function (array) {
 
 ---
 
-## Education:
+### Education:
 
 - GrSU -> 2009-2014 -> Программное обеспечение информационных технологий
