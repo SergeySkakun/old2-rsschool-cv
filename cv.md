@@ -62,3 +62,12 @@ snail = function (array) {
 ### Education:
 
 - GrSU -> 2009-2014 -> Программное обеспечение информационных технологий
+
+---
+
+### Languages:
+
+- Russian (Native)
+- English (Pre Intermediate)
+
+---
