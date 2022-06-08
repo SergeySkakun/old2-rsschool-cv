@@ -14,3 +14,16 @@ _For as long as I can remember, I have always loved computers. What they allow a
 _I want to work as a front-end programmer and help connect people through the Internet._
 
 ---
+
+### Skills:
+
+- HTML5
+- CSS3
+- JS
+- React
+- Git
+- npm
+- Webpack
+- Figma
+
+---
