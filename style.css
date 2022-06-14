@@ -1,0 +1,68 @@
+* {
+  box-sizing: border-box;
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+}
+
+a {
+  color: #e85e1e;
+  font-size: 18px;
+  transition: color 0.5s;
+  text-decoration: none;
+}
+
+a:hover {
+  color: red;
+  cursor: pointer;
+}
+
+.container {
+  max-width: 1440px;
+  margin: 0 auto;
+}
+
+.nav {
+  border-radius: 15px;
+  background-color:teal;
+}
+
+.nav-list {
+  display: flex;
+  justify-content: flex-end;
+  align-items: center;
+  list-style: none;
+}
+
+.nav-link {
+  padding: 0 20px;
+  line-height: 50px;
+}
+
+.my-photo {
+  max-height: 200px;
+  border-radius: 50%;
+}
+
+section {
+  border-bottom: black solid 1px;
+}
+
+.footer-container {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  background-color:teal;
+  border-radius: 5px;
+}
+
+.rss-logo {
+  max-height: 40px;
+}
